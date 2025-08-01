@@ -6,7 +6,7 @@ import { AuthProvider } from "@/hooks/useAuth";
 import { Toaster } from "@/components/sooner";
 
 export const metadata: Metadata = {
-  title: "AI Chat Hub - Multiple AI Assistants",
+  title: "AI Chat Hub  - Multiple AI Assistants",
   description:
     "Chat with ChatGPT, Claude, Grok, and Gemini all in one place. Multiple AI assistants with seamless switching and conversation history.",
   keywords: [
@@ -18,7 +18,7 @@ export const metadata: Metadata = {
     "AI assistant",
     "conversation",
   ],
-  authors: [{ name: "AI Chat Hub" }],
+  authors: [{ name: "Pradeep Shah" }],
 };
 
 export default function RootLayout({
